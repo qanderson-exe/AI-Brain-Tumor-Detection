@@ -7,3 +7,5 @@ numpy
 pandas
 transformers
 scikit-learn
+opencv-python
+matplotlib

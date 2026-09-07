@@ -9,3 +9,4 @@ transformers
 scikit-learn
 opencv-python
 matplotlib
+ipykernel
